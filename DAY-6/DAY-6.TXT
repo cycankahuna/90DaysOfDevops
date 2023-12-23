@@ -1,0 +1,12 @@
+Day 5 of #90DaysofDevOps - More Docker 
+
+Things I Learned Today:
+
+1. Previse Linux
+- What is Linux
+- History of Science
+- Popularity of Linux
+- Advantage of Linux
+
+Date: 23/12/2023
+
